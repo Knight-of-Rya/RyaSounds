@@ -1,7 +1,7 @@
 {
   "name": "ryasounds",
   "version": "0.1.0",
-  "homepage": "https://knight-of-rya.github.io/ryasounds",
+  "homepage": "https://knight-of-rya.github.io/RyaSounds",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
