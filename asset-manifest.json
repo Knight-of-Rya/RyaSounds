@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ryasounds/static/css/main.073c9b0a.css",
-    "main.js": "/ryasounds/static/js/main.571afee6.js",
-    "static/js/787.f0ca8f6d.chunk.js": "/ryasounds/static/js/787.f0ca8f6d.chunk.js",
-    "static/media/logo.svg": "/ryasounds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ryasounds/index.html",
-    "main.073c9b0a.css.map": "/ryasounds/static/css/main.073c9b0a.css.map",
-    "main.571afee6.js.map": "/ryasounds/static/js/main.571afee6.js.map",
-    "787.f0ca8f6d.chunk.js.map": "/ryasounds/static/js/787.f0ca8f6d.chunk.js.map"
+    "main.css": "/RyaSounds/static/css/main.073c9b0a.css",
+    "main.js": "/RyaSounds/static/js/main.1ead4411.js",
+    "static/js/787.f0ca8f6d.chunk.js": "/RyaSounds/static/js/787.f0ca8f6d.chunk.js",
+    "static/media/logo.svg": "/RyaSounds/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RyaSounds/index.html",
+    "main.073c9b0a.css.map": "/RyaSounds/static/css/main.073c9b0a.css.map",
+    "main.1ead4411.js.map": "/RyaSounds/static/js/main.1ead4411.js.map",
+    "787.f0ca8f6d.chunk.js.map": "/RyaSounds/static/js/787.f0ca8f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.571afee6.js"
+    "static/js/main.1ead4411.js"
   ]
 }
